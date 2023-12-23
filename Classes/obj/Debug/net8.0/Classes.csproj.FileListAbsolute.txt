@@ -1,0 +1,5 @@
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.sourcelink.json
