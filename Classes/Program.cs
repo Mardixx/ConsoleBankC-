@@ -66,7 +66,11 @@ namespace BankAccount
             Console.WriteLine("Your balance is: {0}{1}", balance, type);
             Console.WriteLine("How much would you like to withdraw?");
             int newTotal = balance - Convert.ToInt32(Console.ReadLine().Replace("$", ""));
-            Console.WriteLine("New balance is: {1}{0}", type, newTotal);
+            if (newTotal >= 0) {
+                Console.WriteLine("New balance is: {1}{0}", type, newTotal);
+            } else {
+                Console.WriteLine("Your balance would be negative, that cannot happen!");
+            }
         }
         public void Deposit() {
             Console.WriteLine("Your balance is: {0}{1}", balance, type);
