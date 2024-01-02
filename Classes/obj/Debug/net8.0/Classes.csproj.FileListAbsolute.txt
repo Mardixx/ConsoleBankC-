@@ -3,3 +3,13 @@
 /home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
 /home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
 /home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.sourcelink.json
+/home/mardixx/ConsoleBankC-/Classes/bin/Debug/net8.0/Classes
+/home/mardixx/ConsoleBankC-/Classes/bin/Debug/net8.0/Classes.deps.json
+/home/mardixx/ConsoleBankC-/Classes/bin/Debug/net8.0/Classes.runtimeconfig.json
+/home/mardixx/ConsoleBankC-/Classes/bin/Debug/net8.0/Classes.dll
+/home/mardixx/ConsoleBankC-/Classes/bin/Debug/net8.0/Classes.pdb
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.dll
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/refint/Classes.dll
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.pdb
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/Classes.genruntimeconfig.cache
+/home/mardixx/ConsoleBankC-/Classes/obj/Debug/net8.0/ref/Classes.dll
